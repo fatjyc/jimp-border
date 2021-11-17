@@ -1,0 +1,20 @@
+{
+    "name": "@jimp/plugin-border",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "jiong",
+    "license": "MIT",
+    "devDependencies": {
+        "@jimp/test-utils": "^0.16.1",
+        "@types/node": "^16.11.7",
+        "@typescript-eslint/eslint-plugin": "^5.4.0",
+        "@typescript-eslint/parser": "^5.4.0",
+        "babel-eslint": "^10.1.0",
+        "eslint": "^8.2.0",
+        "ts-node": "^10.4.0",
+        "typescript": "^4.4.4"
+    },
+    "dependencies": {
+        "jimp": "^0.16.1"
+    }
+}
